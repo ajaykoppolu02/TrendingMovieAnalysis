@@ -14,7 +14,7 @@ This project provides an exploratory data analysis (EDA) of trending movies usin
 
 ## 📂 Files
 
-- `TrendingMovies.ipynb`: The Jupyter Notebook containing the EDA.
+- `Trending Movie Analysis.ipynb`: The Jupyter Notebook containing the EDA.
 - `README.md`: Project overview and instructions.
 - *(Optional)* `Trending_Movies.csv`: The dataset file (not included here).
 
