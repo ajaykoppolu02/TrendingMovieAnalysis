@@ -36,4 +36,4 @@ Some visuals generated in the notebook include:
 
 ## 🚀 How to Run
 
-https://github.com/ajaykoppolu02/trending-movies-analysis.git
+https://github.com/ajaykoppolu02/TrendingMoviesAnalysis.git
