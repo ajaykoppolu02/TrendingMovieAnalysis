@@ -36,7 +36,4 @@ Some visuals generated in the notebook include:
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/trending-movies-analysis.git
-   cd trending-movies-analysis
+https://github.com/ajaykoppolu02/trending-movies-analysis.git
